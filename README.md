@@ -1,6 +1,6 @@
 # psyu
 
-*Configuration files for ArchLinux*
+**Configuration files for ArchLinux**
 
 [Various bash aliases]
 
