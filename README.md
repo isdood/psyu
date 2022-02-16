@@ -2,7 +2,7 @@
 
 **BASIC ARCHLINUX CONFIGURATION FILES**
 
-[Various bash aliases]
+*[Various bash aliases]*
 
 psyu = "sudo pacman -Syu"
 
@@ -12,10 +12,10 @@ brb = "sudo reboot"
 
 etc...
 
-[Default Samba (smb.conf) configuration file]
+*[Default Samba configuration file]*
 
 A basic configuration to set up an SMB network drive
 
-[Bash script to auto-mount storage]
+*[Bash script to auto-mount storage]*
 
 Simple script + systemd service to mount desired drive to desired mount point
