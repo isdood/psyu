@@ -8,10 +8,6 @@
 alias ls='ls -CHG --color'
 PS1='[\u@\h \W]\$ '
 
-
-#Copy files
-alias copy='rsync -a'
-
 #Show microSD disk space
 alias storj='df -H'
 
